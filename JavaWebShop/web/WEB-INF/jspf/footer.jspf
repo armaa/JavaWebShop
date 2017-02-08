@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/affablebean.css">
+    </head>
+    <body>
+        <div id="footer">
+            <hr>
+            <p id="footerText" class="smallText">
+                <a href="#">Privacy Policy</a>
+                &nbsp;&nbsp;::&nbsp;&nbsp;
+                <a href="mailto:armin.bodruzic@gmail.com">Contact</a>
+                &nbsp;&nbsp;&copy;&nbsp;&nbsp;
+                2017 by Armin Bodruzic</p>
+            </p>
+        </div>
+    </body>
+</html>
